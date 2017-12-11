@@ -1,0 +1,35 @@
+Classification:               Unclassified
+File Name:                    PRM_SOAR_SAMLGS_0.355micron_10W_4.08microrad_RA-DEC_Dec02_20121129.txt
+Message Purpose:              Request for Predictive Avoidance Support
+Message Date/Time (UTC):      201? Mon dd (NNN) hh:mm:ss
+Type Windows Requested:       Open
+Point of Contact:             Andrei Tokovinin
+                              (Voice) +56-51-2205286
+                              (Fax) +56-51-2205212
+                              (E-mail) sampam@ctio.noao.edu
+Emergency Phone # at Operations Site:+56 51 2205 500/501
+Remarks:                      
+
+MISSION INFORMATION
+---------------------------
+Owner/Operator:               SOAR
+Mission Name/Number:          NOAO_SAM_SOAR_355nm_10W_4.46urad_10kHz
+Target Type:                  Right Ascension and Declination
+Location:                     SOAR_Telescope_at_Cerro_Pachon
+Start Date/Time (UTC):        2012 Dec 02 (337) 23:30:00
+End Date/Time (UTC):          2012 Dec 03 (338) 09:30:00
+Duration (HH:MM:SS):          10:00:00
+
+LASER INFORMATION
+---------------------------
+Laser:                        NOAO_SAM_SOAR_355nm_10W_4.46urad_10kHz
+
+SOURCE INFORMATION
+------------------------------------
+Method:                       Fixed Point
+Latitude:                     30.2380 degrees S
+Longitude:                    70.7337 degrees W
+Altitude:                     2.7380 km
+
+TARGET INFORMATION
+------------------------------------
